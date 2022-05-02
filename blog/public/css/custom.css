@@ -1,0 +1,53 @@
+body{
+
+}
+
+.banner {
+    background: linear-gradient(rgb(8 8 8 / 0%),#161616a6),url(/images/banner4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
+}
+
+.homecontect {
+    padding-top: 113px;
+    margin-left: 29px;
+}
+.homecontect h1 {
+    color: white;
+}
+
+.homecontect p {
+    color: white;
+}
+.follome h5 {
+    color: white;
+    margin-left: 33px;
+}
+
+.follome a {
+    text-align: center;
+    margin-left: 40px;
+    text-decoration: none;
+    color: white;
+}
+.follome a:hover {
+    text-decoration: underline;
+    color: rgb(236, 144, 6);
+}
+.follome p{
+    color: white;
+    margin-left: 33px;
+}
+.copyright{
+    background: #000000e0;
+    padding: 11px 0;
+    margin-top: -32px;
+}
+.copyright p{
+    color: whire;
+    font-size: 17px;
+    text-align: center;
+    color: #ede9e9;
+}
